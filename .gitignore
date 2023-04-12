@@ -1,0 +1,9 @@
+/.gitignore
+/.git
+/.github
+*.pth
+/.idea
+__pycache__
+.vscode
+/venv
+/tmp
